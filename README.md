@@ -1,6 +1,6 @@
 # 👋 Hi, I’m @Anayo-Sylvester
 
-- 👀 I’m interested in **software development**, **machine learning**, and **AI**.
+- 👀 I’m interested in **software development**.
 - 🌱 I’m currently usinging **React**, **Node.js**, **Tailwind CSS**, and exploring **cloud technologies**.
 - 💞️ I’m looking to collaborate on **software development projects**, **open-source contributions**, and anything related to **web apps**.
 - 📫 How to reach me:
