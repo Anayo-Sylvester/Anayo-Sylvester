@@ -8,6 +8,7 @@
   - Email: [anayosylvesterchukwukwura@gmail.com](mailto:anayosylvesterchukwukwura@gmail.com)
 - 😄 Pronouns: **He/Him**
 - ⚡ Fun fact: **I am a first-class Computer Science graduate**, and I love solving complex problems through coding. Also, I'm a big fan of technology and innovation. 🚀
+- 🔗 I also do automation and web scraping/data mining using Puppeteer and JavaScript.
 
 ---
 
